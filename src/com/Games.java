@@ -75,6 +75,7 @@ public class Games {
 				huc.connect();
 
 				rescode = huc.getResponseCode();
+				
 
 				if (rescode == 200) {
 					System.out.println("Page Status Code:" + 200);
