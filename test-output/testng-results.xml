@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3339" started-at="2020-05-17T16:10:29 IST" finished-at="2020-05-17T16:10:33 IST">
+  <suite name="Default suite" duration-ms="60024" started-at="2020-05-19T17:03:21 IST" finished-at="2020-05-19T17:04:21 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3339" started-at="2020-05-17T16:10:29 IST" finished-at="2020-05-17T16:10:33 IST">
-      <class name="com.Create">
-        <test-method status="PASS" signature="NodeCreate()[pri:0, instance:com.Create@c81cdd1]" name="NodeCreate" duration-ms="3307" started-at="2020-05-17T16:10:30 IST" finished-at="2020-05-17T16:10:33 IST">
+    <test name="Default test" duration-ms="60024" started-at="2020-05-19T17:03:21 IST" finished-at="2020-05-19T17:04:21 IST">
+      <class name="com.Mobile">
+        <test-method status="PASS" signature="main()[pri:0, instance:com.Mobile@3891771e]" name="main" duration-ms="59993" started-at="2020-05-19T17:03:21 IST" finished-at="2020-05-19T17:04:21 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- NodeCreate -->
-      </class> <!-- com.Create -->
+        </test-method> <!-- main -->
+      </class> <!-- com.Mobile -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
